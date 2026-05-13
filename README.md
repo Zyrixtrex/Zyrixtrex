@@ -1,17 +1,17 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=260&color=0:111827,35:7C2D12,70:F97316,100:FACC15&text=ZYRIXTREX&fontSize=64&fontColor=ffffff&rotate=0&animation=fadeIn&desc=fox%20coded%20chaos%20%F0%9F%A6%8A&descSize=24&descAlignY=70" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=180&color=gradient&customColorList=3,4,5,12,14,18,20,24,30&text=🦊%20ZYRIXTREX%20🦊&fontSize=55&fontColor=ffffff&animation=blinking&desc=fox%20chaos%20//%20ai%20agents%20//%20weird%20experiments&descSize=18&descAlignY=75" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=25&duration=2400&pause=700&color=F97316&center=true&vCenter=true&width=750&lines=%F0%9F%A6%8A+fox+mode+activated;%F0%9F%A7%A0+AI+agents+%26+experiments;%F0%9F%90%8D+Python+side+quests;%F0%9F%94%B7+TypeScript+curiosity;%F0%9F%8D%82+welcome+to+the+den" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=17&duration=1800&pause=500&color=FF7A00&center=true&vCenter=true&multiline=true&width=900&height=85&lines=FOX+SYSTEM+BOOTING...;ERROR%3A+TOO+MUCH+CURIOSITY" />
 
-<br/><br/>
+<br/>
 
-<img src="https://img.shields.io/badge/fox%20mode-active-F97316?style=for-the-badge&labelColor=1F2937" />
-<img src="https://img.shields.io/badge/AI%20agents-exploring-FACC15?style=for-the-badge&labelColor=1F2937" />
-<img src="https://img.shields.io/badge/python-learning-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1F2937" />
-<img src="https://img.shields.io/badge/docker-playing-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1F2937" />
+<img src="https://img.shields.io/badge/🦊_FOX_MODE-OVERDRIVE-ff7a00?style=for-the-badge&labelColor=121212" />
+<img src="https://img.shields.io/badge/🧠_AI_AGENTS-UNSTABLE-ff00aa?style=for-the-badge&labelColor=121212" />
+<img src="https://img.shields.io/badge/🐍_PYTHON-SIDE_QUEST-00d9ff?style=for-the-badge&labelColor=121212" />
+<img src="https://img.shields.io/badge/🐳_DOCKER-PLAYGROUND-7c3aed?style=for-the-badge&labelColor=121212" />
 
 </div>
 
@@ -19,29 +19,33 @@
 
 <div align="center">
 
-## 🦊 Fox Den Control Panel
+## 🦊⚡ FOX CHAOS BOARD ⚡🦊
 
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/ROLE-Curious%20Builder-F97316?style=for-the-badge&labelColor=111827" />
-<br/><br/>
-🛠️ builds weird stuff
+<h1>🧠</h1>
+<b>AI Agents</b>
+<br/>
+<sub>tiny robot brain stuff</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/FOCUS-AI%20Tools-FACC15?style=for-the-badge&labelColor=111827" />
-<br/><br/>
-🧠 agents & assistants
+<h1>🐍</h1>
+<b>Python</b>
+<br/>
+<sub>side quests & scripts</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/MOOD-Orange%20Fox-FF6B00?style=for-the-badge&labelColor=111827" />
-<br/><br/>
-🍂 warm chaos
+<h1>🔷</h1>
+<b>TypeScript</b>
+<br/>
+<sub>typed chaos</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/STYLE-Dark%20Den-7C2D12?style=for-the-badge&labelColor=111827" />
-<br/><br/>
-🌙 quiet dev energy
+<h1>🐳</h1>
+<b>Docker</b>
+<br/>
+<sub>container goblin mode</sub>
 </td>
 </tr>
 </table>
@@ -50,36 +54,63 @@
 
 ---
 
+<div align="center">
+
+### 🧪 sticker wall
+
+<img src="https://img.shields.io/badge/curious-ff006e?style=plastic" />
+<img src="https://img.shields.io/badge/chaotic-fb5607?style=plastic" />
+<img src="https://img.shields.io/badge/experimental-ffbe0b?style=plastic" />
+<img src="https://img.shields.io/badge/fox_energy-8338ec?style=plastic" />
+<img src="https://img.shields.io/badge/random_builds-3a86ff?style=plastic" />
+<img src="https://img.shields.io/badge/open_source-06d6a0?style=plastic" />
+<img src="https://img.shields.io/badge/late_night_code-f72585?style=plastic" />
+<img src="https://img.shields.io/badge/bug_hunter-4cc9f0?style=plastic" />
+<img src="https://img.shields.io/badge/agent_stuff-ff9f1c?style=plastic" />
+<img src="https://img.shields.io/badge/weird_ideas-b5179e?style=plastic" />
+
+</div>
+
+---
+
 <table>
 <tr>
-<td width="55%">
+<td width="40%" align="center">
 
-## 🍊 about
+## 🦊 avatar lore
+
+<img src="https://skillicons.dev/icons?i=python,ts,js,docker,github,git,vscode,linux&theme=dark" />
+
+<br/><br/>
+
+```txt
+Zyrix is not lost.
+Zyrix is just exploring
+six bugs at the same time.
+```
+
+</td>
+<td width="60%">
+
+## 🍊 fox file
 
 ```yaml
 name: Zyrix
 username: Zyrixtrex
-species: fox developer
-habitat: GitHub, terminal, random repos
-currently_into:
+species: orange code fox
+habitat: GitHub / terminal / random forks
+main_quest: build weird things until they work
+current_obsessions:
   - AI assistants
-  - Python experiments
-  - TypeScript stuff
-  - Docker containers
-  - open source trails
-```
-
-</td>
-<td width="45%">
-
-## 🧃 vibe
-
-```txt
-🦊 curious
-🍂 orange
-🌙 quiet
-🧪 experimental
-⚙️ slightly chaotic
+  - agent experiments
+  - python trails
+  - docker containers
+  - open source rabbit holes
+personality:
+  - curious
+  - quiet
+  - chaotic
+  - shiny repo collector
 ```
 
 </td>
@@ -90,51 +121,31 @@ currently_into:
 
 <div align="center">
 
-## 🛠️ toolbox
-
-<img src="https://skillicons.dev/icons?i=python,ts,js,docker,nodejs,git,github,vscode,linux&theme=dark" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Python-1F2937?style=for-the-badge&logo=python&logoColor=FACC15" />
-<img src="https://img.shields.io/badge/TypeScript-1F2937?style=for-the-badge&logo=typescript&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/JavaScript-1F2937?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/Docker-1F2937?style=for-the-badge&logo=docker&logoColor=2496ED" />
-<img src="https://img.shields.io/badge/GitHub-1F2937?style=for-the-badge&logo=github&logoColor=white" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🐾 current trails
+## 🎮 current quests
 
 <table>
 <tr>
 <td align="center">
-
-### 🧠 AI trail
-<img src="https://img.shields.io/badge/agents-F97316?style=flat-square&labelColor=111827" />
-<img src="https://img.shields.io/badge/assistants-FACC15?style=flat-square&labelColor=111827" />
-<img src="https://img.shields.io/badge/experiments-FFEDD5?style=flat-square&labelColor=111827" />
-
+<img src="https://img.shields.io/badge/QUEST_01-openclaw-ff7a00?style=for-the-badge&labelColor=121212" />
+<br/>
+<sub>personal AI assistant experiments</sub>
 </td>
 <td align="center">
-
-### 🐍 code trail
-<img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" />
-
+<img src="https://img.shields.io/badge/QUEST_02-hermes_agent-ff00aa?style=for-the-badge&labelColor=121212" />
+<br/>
+<sub>agent playground chaos</sub>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/QUEST_03-docker_lab-00d9ff?style=for-the-badge&labelColor=121212" />
+<br/>
+<sub>containers, compose, weird setups</sub>
 </td>
 <td align="center">
-
-### 🐳 system trail
-<img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=111827" />
-
+<img src="https://img.shields.io/badge/QUEST_04-js_scrolls-ffbe0b?style=for-the-badge&labelColor=121212" />
+<br/>
+<sub>JavaScript knowledge hoarding</sub>
 </td>
 </tr>
 </table>
@@ -145,42 +156,15 @@ currently_into:
 
 <div align="center">
 
-## 🍂 featured paths
+## 🌈 chaos meter
 
-<table>
-<tr>
-<td align="center" width="20%">
-<h3>🦞</h3>
-<b>openclaw</b>
+<img src="https://img.shields.io/badge/curiosity-██████████-ff006e?style=for-the-badge&labelColor=121212" />
 <br/>
-AI assistant stuff
-</td>
-<td align="center" width="20%">
-<h3>🤖</h3>
-<b>hermes-agent</b>
+<img src="https://img.shields.io/badge/experiments-████████░░-fb5607?style=for-the-badge&labelColor=121212" />
 <br/>
-agent playground
-</td>
-<td align="center" width="20%">
-<h3>🐳</h3>
-<b>voting app</b>
+<img src="https://img.shields.io/badge/focus-█████░░░░░-3a86ff?style=for-the-badge&labelColor=121212" />
 <br/>
-container practice
-</td>
-<td align="center" width="20%">
-<h3>🐍</h3>
-<b>python trail</b>
-<br/>
-learning archive
-</td>
-<td align="center" width="20%">
-<h3>📚</h3>
-<b>YDKJS</b>
-<br/>
-JS scrolls
-</td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/fox_energy-██████████-ffbe0b?style=for-the-badge&labelColor=121212" />
 
 </div>
 
@@ -188,16 +172,16 @@ JS scrolls
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=6&color=0:111827,20:7C2D12,50:F97316,80:FACC15,100:111827" />
-
 <br/>
 
-### 🦊 little fox, loud curiosity
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2600&pause=900&color=FACC15&center=true&vCenter=true&width=650&lines=collecting+ideas+like+shiny+rocks;breaking+things+until+they+make+sense;wandering+through+the+dev+forest" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:ff006e,20:fb5607,40:ffbe0b,60:8338ec,80:3a86ff,100:06d6a0" />
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=120&color=0:FACC15,50:F97316,100:7C2D12&section=footer" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=21&duration=1700&pause=600&color=FFBE0B&center=true&vCenter=true&width=850&lines=🦊+collecting+bugs+like+treasure;🍊+orange+fox+energy+detected;🧪+probably+breaking+something+useful;🌈+chaos+but+make+it+pretty" />
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:06d6a0,20:3a86ff,40:8338ec,60:ffbe0b,80:fb5607,100:ff006e" />
 
 </div>
